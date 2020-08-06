@@ -1,3 +1,18 @@
-# <h1> "My Jupiter Notebook on IBM Watson Studio"
+# <h1>My Jupiter Notebook on IBM Watson Studio
 
 # <strong>Paola</strong> 
+
+# Human 100%
+
+# <i>I am interested in Data Science to add knowledge to my career.</i>
+
+# in[5]:
+
+num1=1
+num2=2
+
+# Add 2 numbers
+sum = num1 + num2
+
+# Display results
+print('The sum of {0} and {1}',format(num1,num2,sum))
